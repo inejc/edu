@@ -1,1 +1,1 @@
-A set of miscellaneous IPython notebooks for educational purposes.
+A set of miscellaneous resources for educational purposes.
